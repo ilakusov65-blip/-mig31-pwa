@@ -1,0 +1,24 @@
+{
+  "name": "МиГ-31БМ — Сверхзвуковой Перехватчик",
+  "short_name": "МиГ-31",
+  "description": "Интерактивная 3D модель истребителя МиГ-31БМ с техническими характеристиками",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#e94560",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/e94560/ffffff?text=МиГ-31",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512/e94560/ffffff?text=МиГ-31",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
